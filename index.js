@@ -1,5 +1,4 @@
 require("dotenv").config();
-const bcrypt = require("bcryptjs");
 
 const server = require("./server.js");
 
